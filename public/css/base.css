@@ -10,4 +10,15 @@
 
 .bord {
     border: 1px;
+    margin: 20px auto;
+}
+
+.startButton {
+
+    align-items: center;
+}
+
+.gameBox {
+
+    text-align: center;
 }
